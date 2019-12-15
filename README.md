@@ -1,5 +1,9 @@
 # [版权声明](https://github.com/xmasuhai/Copyright_Hungervalley.git)：
 
+
+> 采用[知识共享署名-非商业性使用 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)进行许可
+
+
 > - 作者：Joel Xu
 > - 来源：饥人谷/写代码啦/河码
 > - 本内容版权归属本人及杭州饥人谷教育科技有限公司（简称：饥人谷）所有。
